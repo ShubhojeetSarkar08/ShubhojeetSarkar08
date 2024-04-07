@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ShubhojeetSarkar
-- 👀 I’m interested in 
+- 👀 I’m interested in learning web tech stak, AIML tech stack
 - 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on mern stack projects
 - 📫 How to reach me ...
